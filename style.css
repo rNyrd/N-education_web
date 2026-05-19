@@ -29,7 +29,7 @@ hr{
 }
 
 #top {
-  background-image: url(image/top.jpg);
+  background-image: url(top.jpg);
   background-size: cover;
   padding: 200px 0;
 }
